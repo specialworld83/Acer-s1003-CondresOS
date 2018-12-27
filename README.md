@@ -23,3 +23,5 @@ This repository contains fixes for Condres on Acer One 10 S1003.
 
 * GNOME on Wayland is glitchy
   * Use XOrg for the time being
+  
+* Webcam
